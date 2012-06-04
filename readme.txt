@@ -29,8 +29,6 @@ With this plugin you can easily embebed GitHub Gist in any type of content: page
 
 == Screenshots ==
 
-1. Shortcode Insertion
-2. Frontend view
 
 == Changelog ==
 
