@@ -27,9 +27,6 @@ With this plugin you can easily embebed GitHub Gist in any type of content: page
 3. Add Gist on GitHub
 4. Start inserting shortcodes this way [gist id="xxxxxx"], where "xxxxxx" is the Gist ID
 
-== Screenshots ==
-
-
 == Changelog ==
 
 = 1.0 =
